@@ -1,0 +1,35 @@
+.gradle/
+local.properties
+**/build/
+build/
+.idea/
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+*.hprof
+captures/
+externalNativeBuild/
+/.kotlin/
+
+# Local AI / agent tooling
+.superpowers/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+hs_err_pid*.log
+
+# Excluded from repository
+CONTEXT.md
+background.png
+icon.png
+splash.png
+testing/
+tools/
+design-qa.md
+
+*.bak
